@@ -1,4 +1,4 @@
-/* global describe, it */
+/  global describe, it */
 
 const chai = require('chai')
 const chaiAsPromised = require('chai-as-promised')
@@ -22,3 +22,4 @@ describe('supertype', () => {
     })
   })
 })
+ 
